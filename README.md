@@ -1,2 +1,20 @@
 # Mathematics_Notebooks
-This repo contains jupyter nootebooks of some popular mathematics theorems.
+This repo contains Jupiter notebooks of some popular mathematics theorems.
+
+ - Analysis of Euler's Formula
+
+
+
+### Todos
+
+ - Analysis of Taylor Series
+ - Analysis of limit divergance and integral with relations between.
+ - Many more engineering mathematics analysis
+ 
+License
+----
+
+MIT
+
+
+**Free Software, Hell Yeah!**
